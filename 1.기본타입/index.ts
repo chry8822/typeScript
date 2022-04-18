@@ -103,3 +103,4 @@ let project :{ member: string[], days:number , started:boolean} = {
 }
 
 
+const tuple : [Number,string] = [2,"2"];
